@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10171" systemVersion="15C50" minimumToolsVersion="Automatic">
+    <entity name="TablaEventos" representedClassName="AppCAi.TablaEventos" syncable="YES">
+        <attribute name="descripcion" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="diaFin" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="diaInicio" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fechaFin" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fechaInicio" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="horaFin" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="horaInicio" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="idComision" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="idEvento" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="imagenURL" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nombreComision" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nombreEvento" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="TablaEventos" positionX="-63" positionY="-18" width="128" height="225"/>
+    </elements>
+</model>
